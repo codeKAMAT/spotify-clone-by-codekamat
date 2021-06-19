@@ -4,7 +4,7 @@ export const initialState = {
   playing: false,
   item: null,
   // Remove after developement
-  // token:
+  token: null,
   //   'BQAVjMUQpsSI91t8tt8tFOQ_JE5zvPYXZnw02--etqd9chIxY8gsaWInX-Fru5uOgQuHNKKYhVpz2pDvEmbCXsYun7kG0_yp5YMe8S1sjgvf2fM_NvwruzF66MzPIfdEH9vl_5dq0FseHm-si9SO9y6glMc7aEvWdCOyxainLDZXDHqaiExpvboE4EtpULc2NP_-SNcoFZMo0R75xrKTW-P9IQ',
 }
 
